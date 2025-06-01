@@ -1,6 +1,6 @@
 export enum TipoStatus {
-    ENCERRAR_ATENDIMENTO = "EncerrarAtendimento",
     INICIO = "Inicio",
     CARDAPIO = "Cardapio",
-    FINALIZAR = "Finalizar"
+    FINALIZAR = "Finalizar",
+    ENCERRAR_ATENDIMENTO = "EncerrarAtendimento"
 }

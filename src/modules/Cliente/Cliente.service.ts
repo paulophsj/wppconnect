@@ -1,6 +1,5 @@
-import { forwardRef, Inject, Injectable } from "@nestjs/common";
+import { Injectable } from "@nestjs/common";
 import { Message, Whatsapp } from "@wppconnect-team/wppconnect";
-import { ClienteStatus } from "src/common/interfaces/ClienteStatus.interface";
 import { InicioService } from "../Flow/services/Inicio.service";
 import { TipoStatus } from "src/common/enums/TipoStatus.enum";
 import { CardapioService } from "../Flow/services/Cardapio.service";
