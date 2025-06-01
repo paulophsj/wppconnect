@@ -28,7 +28,7 @@ Projeto backend de automação do WhatsApp utilizando **[WppConnect](https://git
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/paulophsj/wppconnect
 
 # Acesse a pasta
 cd seu-repo
